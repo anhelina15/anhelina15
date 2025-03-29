@@ -40,8 +40,7 @@ I'm a frontend Developer passionate about crafting web experiences that are both
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 
-<br/>  
-
+ 
 ## ✨ A Bit About Me
 - 📚 I love reading books, especially about self-development and psychology.
 - ✈️ I enjoy traveling and discovering new places.
